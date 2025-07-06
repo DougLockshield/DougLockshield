@@ -12,7 +12,7 @@
 - 🎥 Produzo vídeos práticos de cibersegurança no YouTube
 - 🚀 Fundador da **LockShield Academy** – onde teoria vira prática
 
-📫 **Contato direto:** lockshield.contato@gmail.com  
+📫 **Contato direto:** lockshield.contato@outlook.com  
 🎬 **Canal:** [youtube.com/@douglaslockshield](https://www.youtube.com/@douglaslockshield)
 
 ---
