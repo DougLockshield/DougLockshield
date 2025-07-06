@@ -64,7 +64,7 @@ Versão customizada da clássica ferramenta de ataque a redes Wi-Fi.
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
   <a href="https://www.youtube.com/@douglaslockshield" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" height="30" width="30" style="filter: invert(16%) sepia(96%) saturate(7482%) hue-rotate(358deg) brightness(91%) contrast(119%);" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="30" width="30" style="filter: invert(16%) sepia(96%) saturate(7482%) hue-rotate(358deg) brightness(91%) contrast(119%);" />
   </a>
   <a href="https://www.instagram.com/douglaslockshield/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30" />
