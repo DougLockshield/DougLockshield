@@ -17,6 +17,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DougLockshield&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougLockshield&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<p align="center">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=DougLockshield&theme=dark">
+</p>
+
+---
+
 ## 🧪 Projetos
 
 🔸 [`windows-malicious-theme`](https://github.com/DougLockshield/windows-malicious-theme)  
@@ -45,32 +58,16 @@ Versão customizada da clássica ferramenta de ataque a redes Wi-Fi.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DougLockshield&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DougLockshield&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=DougLockshield&theme=dark">
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/douglaslockshield/" target="blank">
+  <a href="https://www.linkedin.com/in/douglaslockshield/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
-  <a href="https://twitter.com/DLockshield" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" width="30" />
+  <a href="https://www.youtube.com/@douglaslockshield" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" height="30" width="30" style="filter: invert(16%) sepia(96%) saturate(7482%) hue-rotate(358deg) brightness(91%) contrast(119%);" />
   </a>
-  <a href="https://www.youtube.com/@douglaslockshield" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="30" width="30" />
-  </a>
-  <a href="https://www.instagram.com/douglaslockshield/" target="blank">
+  <a href="https://www.instagram.com/douglaslockshield/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" width="30" />
   </a>
 </p>
