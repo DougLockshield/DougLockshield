@@ -51,7 +51,7 @@ Simulação de worm se propagando em rede — inspirado em cenários reais.
 Estudo técnico de um ativador que parece seguro, mas esconde uma backdoor.
 
 🔸 [`Activate`](https://github.com/DougLockshield/Activate)  
-Antivírus falso feito em C# com payload embutido — usado para conscientização.
+Ativador falso feito em C# com payload embutido — usado para conscientização.
 
 🔸 [`Fluxion`](https://github.com/DougLockshield/Fluxion)  
 Versão customizada da clássica ferramenta de ataque a redes Wi-Fi.
