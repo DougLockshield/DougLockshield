@@ -10,7 +10,6 @@
 - 🎯 Especializado em **Endpoint Protection**, **Network Security** e **SI Strategy**
 - 🧠 Criador de ferramentas ofensivas para simulação de ataques
 - 🎥 Produzo vídeos práticos de cibersegurança no YouTube
-- 🚀 Fundador da **LockShield Academy** – onde teoria vira prática
 
 📫 **Contato direto:** lockshield.contato@outlook.com  
 🎬 **Canal:** [youtube.com/@douglaslockshield](https://www.youtube.com/@douglaslockshield)
