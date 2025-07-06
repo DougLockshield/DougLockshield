@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hack+the+Real+World!;Segurança+Sem+Frescura.;Projetos+reais+para+problemas+reais.&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=500&center=true&vCenter=true&lines=Hack+the+Real+World!;Seguran%C3%A7a+Sem+Frescura.;Projetos+reais+para+problemas+reais."/>
 </p>
 
 ---
