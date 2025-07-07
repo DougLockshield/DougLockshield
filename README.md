@@ -11,7 +11,7 @@
 - 🧠 Criador de ferramentas ofensivas para simulação de ataques
 - 🎥 Produzo vídeos práticos de cibersegurança no YouTube
 
-📫 **Contato direto:** lockshield.contato@outlook.com  
+📫 **Contato direto:** douglas.lockshield@outlook.com  
 🎬 **Canal:** [youtube.com/@douglaslockshield](https://www.youtube.com/@douglaslockshield)
 
 ---
