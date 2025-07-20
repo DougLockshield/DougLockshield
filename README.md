@@ -11,7 +11,7 @@
 - 🧠 Criador de ferramentas ofensivas para simulação de ataques
 - 🎥 Produzo vídeos práticos de cibersegurança no YouTube
 
-📫 **Contato direto:** douglas.lockshield@outlook.com  
+📫 **Contato direto:** douglas-lockshield@outlook.com  
 🎬 **Canal:** [youtube.com/@douglaslockshield](https://www.youtube.com/@douglaslockshield)
 
 ---
@@ -30,6 +30,9 @@
 ---
 
 ## 🧪 Projetos
+
+🔸 [`qrcode-social-engineering`](https://github.com/DougLockshield/qrcode-social-engineering)  
+Engenharia social utilizando um QR Code
 
 🔸 [`windows-malicious-theme`](https://github.com/DougLockshield/windows-malicious-theme)  
 Tema de Windows que carrega payloads — sim, só o visual já pode ser perigoso.
