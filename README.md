@@ -31,6 +31,9 @@
 
 ## 🧪 Projetos
 
+🔸 [`Winrar-Escape`](https://github.com/DougLockshield/winrar-escape)  
+Script que simula a vulnerabilidade de escape do Winrar
+
 🔸 [`qrcode-social-engineering`](https://github.com/DougLockshield/qrcode-social-engineering)  
 Engenharia social utilizando um QR Code
 
