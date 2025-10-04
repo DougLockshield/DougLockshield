@@ -31,6 +31,9 @@
 
 ## 🧪 Projetos
 
+🔸 [`Shodan-Cheatsheet`](https://github.com/DougLockshield/Shodan-Cheatsheet)  
+Dorks para utilizar via Web e API no Shodan
+
 🔸 [`Winrar-Escape`](https://github.com/DougLockshield/winrar-escape)  
 Script que simula a vulnerabilidade de escape do Winrar
 
