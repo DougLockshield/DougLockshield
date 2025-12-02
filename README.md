@@ -7,7 +7,7 @@
 ## 👨‍💻 Douglas Lockshield (@DougLockshield)
 
 - 🔐 **Senior InfoSec Consultant**
-- 🎯 Especializado em **Endpoint Protection**, **Network Security** e **SI Strategy**
+- 🎯 Especialista em **Endpoint Protection**, **Network Security** e **SI Strategy**
 - 🧠 Criador de ferramentas ofensivas para simulação de ataques
 - 🎥 Produzo vídeos práticos de cibersegurança no YouTube
 
